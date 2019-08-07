@@ -40,7 +40,6 @@ namespace homework
             cicrumOfCircle();
             volumeOfHemisphere();
             areaOfTriangle();
-            Console.ReadLine();
 
         }
     }
